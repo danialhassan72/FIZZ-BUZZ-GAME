@@ -1,1 +1,1 @@
-# FIZZ-BUZZ-GAME
+This repository contains a simple Python implementation of the classic FizzBuzz game. The code iterates through numbers 1 to 100 and prints "Fizz" for multiples of 3, "Buzz" for multiples of 5, and "FizzBuzz" for multiples of both. 
